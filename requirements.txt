@@ -14,7 +14,7 @@ feedparser==6.0.8
 db-sqlite3
 
 # Summarization library
-pyteaser==0.1.1
+
 sumy==0.8.1
 
 # Other dependencies

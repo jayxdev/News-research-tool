@@ -11,7 +11,7 @@ beautifulsoup4==4.11.1
 feedparser==6.0.8
 
 # Database library
-sqlite3==3.36.0
+sqlite3
 
 # Summarization library
 pyteaser==0.1.1
